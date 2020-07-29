@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">Military Standard Chart</string>
+    <string name="tama_o_de_muestra" translatable="false">Lote</string>
+
+    <string name="nivel_de_inspecci_n" translatable="false">Nivel</string>
+    <string name="button" translatable="false">Calcular</string>
+    <string name="txt_">Calcular</string>
+</resources>
